@@ -10,6 +10,7 @@ The following assignment has two objectives
 - To ensure you can follow a UML specivication precisely to create the class that is described
 - To ensure you can follow a UML specification to create a super class i.e. a class that inherits from the base class or subclass
 
+# Part 1
 Create the classes as described in the UML diagram for the Vehicle Object
 
 ![alt text](Vehicle.jpg)
@@ -18,6 +19,7 @@ Follow the names of the classes, attributes and methods exactly as in the diagra
 Test your classes to see if they work
 If they don't work it is because you have not followed the specification precisely
 
+# Part 2
 Create the Van class as it is described in the following diagram
 
 ![alt text](Vehicle_Van.jpg)
