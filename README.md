@@ -12,8 +12,12 @@ The following assignment has two objectives
 
 Create the classes as described in the UML diagram for the Vehicle Object
 
+![alt text](Vehicle.jpg)
+
 Follow the names of the classes, attributes and methods exactly as in the diagram
 Test your classes to see if they work
 If they don't work it is because you have not followed the specification precisely
 
 Create the Van class as it is described in the following diagram
+
+![alt text](Vehicle_Van.jpg)
